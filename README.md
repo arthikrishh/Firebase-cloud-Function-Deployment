@@ -1,5 +1,3 @@
-# Firebase-cloud-Function-Deployment
-
 # Deploying Cloud Functions in Firebase
 
 Welcome! This repository provides a detailed guide on how to deploy cloud functions using Firebase. Follow the steps below to get started.
