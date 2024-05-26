@@ -1,6 +1,5 @@
 # Firebase-cloud-Function-Deployment
 
-```markdown
 # Deploying Cloud Functions in Firebase
 
 Welcome! This repository provides a detailed guide on how to deploy cloud functions using Firebase. Follow the steps below to get started.
@@ -142,11 +141,5 @@ Firebase provides detailed usage metrics for each function, including invocation
 
 You've now learned how to set up, write, and deploy cloud functions using Firebase. This powerful feature allows you to run backend code in response to events triggered by Firebase features and HTTPS requests.
 
-For more tutorials and updates, visit my [website](http://www.aarthikrishnan.com/deploy-cloud-function/).
+For more tutorials and updates, visit my [website](http://www.aarthikrishnan.com/).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify and extend the `README.md` file as needed for your project.
