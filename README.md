@@ -135,6 +135,7 @@ exports.scheduledFunction = functions.pubsub.schedule('every 5 minutes').onRun((
 
 ## Monitoring and Managing Functions
 
+
 In the Firebase Console, go to your project and navigate to the `Functions` section under `Build`. Here, you can manage and monitor your deployed functions.
 
 Firebase provides detailed usage metrics for each function, including invocation counts, execution times, and error rates.
