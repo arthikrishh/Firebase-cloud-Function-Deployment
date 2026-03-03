@@ -11,7 +11,7 @@ Welcome! This repository provides a detailed guide on how to deploy cloud functi
 - Node.js installed on your system. Download it from [nodejs.org](https://nodejs.org/en/).
 - A Firebase account. Sign up at [Firebase](https://firebase.google.com/).
 
-## Setup Instructions
+## Setup Instructions   
 
 ### Step 1: Install Node.js
 
